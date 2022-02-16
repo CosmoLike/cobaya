@@ -2,7 +2,7 @@
 # See https://wiki.cosmos.esa.int/planck-legacy-archive/index.php/CMB_spectrum_%26_Likelihood_Code
 
 path:
-clik_file: extended_plik/plc_3.0/hi_l/plik/plik_rd12_HM_v22_TT_bin1.clik
+clik_file: plc_3.0/hi_l/plik/plik_rd12_HM_v22_TT_bin1.clik
 product_id: "151905"
 # Aliases for automatic covariance matrix
 aliases: [plikHM_TT]
