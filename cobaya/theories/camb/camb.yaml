@@ -25,3 +25,6 @@ renames:
   yhe: YHe
   yheused: YHe  # used by Planck when YHe is derived
   YpBBN: Y_p
+  #VM BEGINS
+  omegan2: omnuh2
+  #VM ENDS
